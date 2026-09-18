@@ -31,9 +31,9 @@ Este projeto faz parte do Certificado Profissional de Análise de Dados do Googl
 
 2. **Insight 2:** Padrão Semanal:
 
-Membros Anuais: Mantêm alto volume de uso de segunda a sexta-feira, com picos nos horários de pico (perfil utilitário/deslocamento para o trabalho).
+  Membros Anuais: Mantêm alto volume de uso de segunda a sexta-feira, com picos nos horários de pico (perfil utilitário/deslocamento para o trabalho).
 
-Usuários Casuais: O volume dispara aos sábados e domingos (perfil recreativo).
+  Usuários Casuais: O volume dispara aos sábados e domingos (perfil recreativo).
 
 3. **Insight 3:** Estacionalidade: O uso por ciclistas casuais cresce acentuadamente nos meses quentes de verão (junho a agosto) e cai drasticamente durante o inverno.
 
