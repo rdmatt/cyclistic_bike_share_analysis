@@ -23,11 +23,12 @@ Este projeto faz parte do Certificado Profissional de Análise de Dados do Googl
 ---
 
 ## 📂 Estrutura do Repositório
+```
 ├── painéis/       # Capturas de tela e arquivos do Tableau
 ├── documentos/    # Relatórios e documentação do projeto
 ├── roteiros/      # Scripts R e Python para limpeza e análise
 └── README.md      # Documentação do projeto
-
+```
 ---
 
 ## 🔍 Principais Insights e Descobertas
